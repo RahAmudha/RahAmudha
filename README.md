@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Rahul Amudhasagaran. I am a sophomore at UCSC majoring in Copmuter Engineering.
-- 👀 I’m interested in creating video games and solving challenging coding projects.
-- 🌱 I’m currently learning how to code in C and C++.
-- 💞️ I’m looking to share my code with others to receive feedback and improve.
-- 📫 My gmail is rahula2003@gmail.com. I hope to see some requests.
+- 👋 Hi, I’m Rahul Amudhasagaran. I am a junior at UCSC majoring in Copmuter Engineering.
+
